@@ -1,2 +1,0 @@
-# Aji-test
-test-file
